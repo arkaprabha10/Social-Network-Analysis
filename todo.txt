@@ -1,0 +1,5 @@
+SAVE CSV FOR CENTRALITY OUTPUT ----- done
+MAKE FUNCTIONS  ---- done
+MERGE CODE ---- done
+COMMUNITIES CODE: NEW WALLA ---- done
+RICH CLUB: split into 4: +ve in/out, -ve in/out ----done
