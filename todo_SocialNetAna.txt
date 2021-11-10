@@ -1,0 +1,7 @@
+hist plot csv generated file, x axis = col2 bin size, y axis frequency, bin size, line hist plot all datasets together
+for in degree, out degree, mod in degree, eigen, clustering(make csv), closeness(weak)
+
+rich club:
+make undirected and run link code
+
+graph labelling
