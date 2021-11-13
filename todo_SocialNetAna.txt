@@ -5,3 +5,5 @@ rich club:
 make undirected and run link code
 
 graph labelling
+
+average characteristic path length
